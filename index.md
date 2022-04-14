@@ -7,8 +7,6 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## 
-
 ## What Is Nginx? A Basic Look at What It Is and How It Works
 
 Nginx, is an open-source web server that, since its initial success as a web server, is now also used as a reverse proxy, HTTP cache, and load balancer.
@@ -33,7 +31,8 @@ Some common features seen in Nginx include:
 * WebSockets
 * Handling of static files, index files, and auto-indexing
 * TLS/SSL with SNI
-* 
+
+
 ![ ](https://www.24x7technicalsupport.net/blog/wp-content/uploads/2019/07/Nginx-02-1024x569.jpg)
 
 
