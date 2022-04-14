@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## <p> Ngnex Web Server <span style="color:blue">some <em>blue</em> text</span>.</p>: Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+## Ngnex Web Server <span style="color:red">some <em>red</em> text</span>.</p>: Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
 
 
