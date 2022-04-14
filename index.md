@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## <span style="color:red">NGNEX <em>red</em> Web Server </span>: Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+## <span style="color:red">NGNEX<em></em> Web Server </span>:          Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
 
 
