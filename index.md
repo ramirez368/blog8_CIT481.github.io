@@ -34,17 +34,19 @@ Some common features seen in Nginx include:
 * Handling of static files, index files, and auto-indexing
 * TLS/SSL with SNI
 
-## 
+## NGINX Beyond Web Serving
+Though NGINX became famous as the fastest web server, the scalable underlying architecture has proved ideal for many web tasks beyond serving content. Because it can handle a high volume of connections, NGINX is commonly used as a reverse proxy and load balancer to manage incoming traffic and distribute it to slower upstream servers – anything from legacy database servers to microservices.
 
-![ ](https://www.ursalink.com/en/wp-content/uploads/2019/10/5G-IoT.png)
+NGINX also is frequently placed between clients and a second web server, to serve as an SSL/TLS terminator or web accelerator. Acting as an intermediary, NGINX efficiently handles tasks that might slow down your web server, such as negotiating SSL/TLS or compressing and caching content to improve performance. Dynamic sites, built using anything from Node.js to PHP, commonly deploy NGINX as a content cache and reverse proxy to reduce load on application servers and make the most effective use of the underlying hardware.
 
-## E
+## What Can NGINX and NGINX Plus Do for You?
+NGINX Plus and NGINX are the best-in-class web server and application delivery solutions used by high‑traffic websites such as Dropbox, Netflix, and Zynga. NGINX is the most popular web server on the planet, with more than 350 million websites worldwide relying on NGINX Plus and NGINX Open Source to deliver their content quickly, reliably, and securely.
 
+As a software‑only all-in-one load balancer, web server, API gateway, and reverse proxy that is designed for cloud‑native architectures, NGINX helps you accelerate your IT infrastructure and application modernization efforts. NGINX Plus delivers enterprise‑grade capabilities that provide robust reliability and security.
+NGINX is a multifunction tool. With NGINX, you can use the same tool as your load balancer, reverse proxy, content cache, and web server, minimizing the amount of tooling and configuration your organization needs to maintain. NGINX offers documentation and a wide array of eBooks, webinars, and videos to get you on your feet. NGINX Plus includes rapid‑response customer support, so you can easily get help diagnosing any part of your stack that uses NGINX or NGINX Plus.
+NGINX keeps evolving. For the past decade NGINX has been at the forefront of development of the modern Web, and has helped lead the way on everything from HTTP/2 to microservices support. As development and delivery of web applications continue to evolve, NGINX Plus keeps adding features to enable flawless application delivery, from support for configuration using an implementation of JavaScript customized for NGINX, to support for dynamic modules. Using NGINX Plus ensures you’ll stay at the cutting edge of web performanc
 
-
-![ ](https://dl.cdn-anritsu.com/images/tm/solutions/mt1000a-05/mt1000a-5g-ecpri-01e.jpg?la=en-us) 
-
-## 
+![ ](https://www.24x7technicalsupport.net/blog/wp-content/uploads/2019/07/Nginx-02-1024x569.jpg)
 
 
 ### I hope this was useful as IoT get deeper and deeper in our lifes.
