@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-## Ngnex Web Server: Watch the video Click here(https://www.youtube.com/watch?v=JKxlsvZXG7c)
+## Ngnex Web Server: Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
