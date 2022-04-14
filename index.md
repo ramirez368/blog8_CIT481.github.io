@@ -5,6 +5,8 @@ layout: default
 
 ## Ngnex Web Server: Watch the video [Click here](https://www.youtube.com/watch?v=JKxlsvZXG7c)
 
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ## What Is Nginx? A Basic Look at What It Is and How It Works
